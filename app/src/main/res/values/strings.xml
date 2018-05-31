@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">MVPproject</string>
+    <string name="surName">Surname</string>
+    <string name="name">Name</string>
+    <string name="enter">ENTER</string>
+    <string name="enter_name">Pleas enter first name</string>
+</resources>
